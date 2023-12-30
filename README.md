@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stralucire / Maxim MFJ
-- 👀 I am new and working with C#.NET
-- 🌱 I’m currently learning C#
+- 🎶 hi, I'm a beginner developer and guitar player from Eastern Europe
+- 🌐 languages : english, română, русский
+- ⚡ I'm currently learning C#/C++
 
 <!---
 stralucire/stralucire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
