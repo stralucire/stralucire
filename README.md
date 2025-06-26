@@ -1,5 +1,5 @@
-- 🎶 hi, I'm a beginner developer and guitar player from Eastern Europe
-- 🌐 languages : english, română, русский
+- 🎶 hi, I'm a beginner developer and engineer 
+- 🌐 languages : english, русский, niște română
 - ⚡ I'm currently learning C#/C++
 
 <!---
